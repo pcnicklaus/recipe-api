@@ -1,0 +1,22 @@
+{
+  "name": "recipe-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/js-spotify-ajax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/js-spotify-ajax/issues"
+  },
+  "homepage": "https://github.com/gSchool/js-spotify-ajax#readme",
+  "dependencies": {
+    "request": "^2.61.0"
+  }
+}
